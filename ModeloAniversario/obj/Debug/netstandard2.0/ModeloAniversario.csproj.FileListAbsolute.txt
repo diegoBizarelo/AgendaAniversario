@@ -1,0 +1,8 @@
+C:\Users\BlueTurtle\source\repos\GerenciamentoAniversario\ModeloAniversario\bin\Debug\netstandard2.0\ModeloAniversario.deps.json
+C:\Users\BlueTurtle\source\repos\GerenciamentoAniversario\ModeloAniversario\bin\Debug\netstandard2.0\ModeloAniversario.dll
+C:\Users\BlueTurtle\source\repos\GerenciamentoAniversario\ModeloAniversario\bin\Debug\netstandard2.0\ModeloAniversario.pdb
+C:\Users\BlueTurtle\source\repos\GerenciamentoAniversario\ModeloAniversario\obj\Debug\netstandard2.0\ModeloAniversario.AssemblyInfoInputs.cache
+C:\Users\BlueTurtle\source\repos\GerenciamentoAniversario\ModeloAniversario\obj\Debug\netstandard2.0\ModeloAniversario.AssemblyInfo.cs
+C:\Users\BlueTurtle\source\repos\GerenciamentoAniversario\ModeloAniversario\obj\Debug\netstandard2.0\ModeloAniversario.csproj.CoreCompileInputs.cache
+C:\Users\BlueTurtle\source\repos\GerenciamentoAniversario\ModeloAniversario\obj\Debug\netstandard2.0\ModeloAniversario.dll
+C:\Users\BlueTurtle\source\repos\GerenciamentoAniversario\ModeloAniversario\obj\Debug\netstandard2.0\ModeloAniversario.pdb

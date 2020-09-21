@@ -1,0 +1,11 @@
+[Lista de Amigos]
+João;das Neves;15/05/1975
+Sicrano;Galactos;05/06/1983
+Cris;O'Donnell;26/05/1970
+Xena;Pricess Warrior;04/09/1995
+Jay;Jhonson;16/09/1990
+Clear;Redfield;17/09/1995
+Sons;of Arnach;22/07/2000
+Jhon;Jhonson;15/08/2000
+L;K;01/12/2000
+i;j;18/09/1800

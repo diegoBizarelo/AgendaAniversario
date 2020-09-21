@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "x4d76SLgQpoWNbIrtpS1EE/b+eXXYPpuCt/sMPMRRl9CfAz5YuxaFCRzBdF5ALBwG4DzpzlbjgoKTK+W81EwNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BlueTurtle\\source\\repos\\GerenciamentoAniversario\\ServiceAniversario\\ServiceAniversario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BlueTurtle\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\BlueTurtle\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
